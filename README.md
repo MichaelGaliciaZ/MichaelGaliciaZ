@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Control and Automation Engineer studying for a Master of Science in Computer Engineering, CIC-IPN. <br><br>Currently my interests are computer vision, robotics and machine learning. <br>
 
 
